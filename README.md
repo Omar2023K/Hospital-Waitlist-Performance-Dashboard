@@ -75,6 +75,4 @@ Users can filter instantly by:
 - Power Query (ETL)  
 - Interactive Visual Analytics  
 
----
 
-## 📁 Project Structure
