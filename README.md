@@ -11,7 +11,7 @@ The report consists of two key pages:
 
 ---
 ## 📷 Healthcare Waitlist Dashboard 
-![Healthcare Waitlist Dashboard](image.png)
+![Healthcare Waitlist Dashboard](Image.png)
 
 ## 🎯 Objectives
 - Monitor **latest monthly wait list size** and compare it with previous year totals.
