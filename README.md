@@ -67,23 +67,7 @@ Users can filter instantly by:
 
 ---
 
-## 🗂️ Dataset Description
-**Dataset Name:** `Hospital_Waitlist_Data`
 
-### Key Columns
-| Column Name | Description |
-|-------------|-------------|
-| Archive_Date | Monthly snapshot of waitlist data |
-| Case_Type | Inpatient / Day Case classification |
-| Specialty_Name | Medical specialty category |
-| Age_Profile | Age group classification |
-| Time_Bands | Waiting duration category |
-| Latest Month Wait List1 | Latest month waitlist count |
-| PY Latest Month Wait List | Previous year waitlist count |
-| Average wait list | Calculated average wait times |
-| Median wait list | Calculated median wait times |
-
----
 
 ## 🛠️ Technology Stack
 - Power BI Desktop  
